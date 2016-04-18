@@ -8,6 +8,6 @@ Starter project for react, includes:
 - React-Redux
 - Sass
 
-Build tool used is Webpack, with a dev and production condig included.
+Build tool used is Webpack, with a dev and production config included.
 
 Also included is susy for the grid system.
