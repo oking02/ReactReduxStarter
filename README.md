@@ -1,6 +1,6 @@
 # ReactReduxStarter
 
-Starter project for react, includes:
+Starter project for React, includes:
 
 - React
 - React-Router
@@ -11,3 +11,9 @@ Starter project for react, includes:
 Build tool used is Webpack, with a dev and production config included.
 
 Also included is susy for the grid system.
+
+To run the dev server on port 8040
+``` npm start ```
+
+To build (generates an actual css file)
+``` npm run build ```
